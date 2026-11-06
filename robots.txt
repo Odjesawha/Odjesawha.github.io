@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /wp-admin/
 
-Sitemap: https://victorodjesawha.com/sitemap.xml
+Sitemap: https://odjesawha.github.io/sitemap.xml
